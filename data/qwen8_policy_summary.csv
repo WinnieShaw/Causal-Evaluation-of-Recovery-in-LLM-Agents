@@ -1,0 +1,6 @@
+policy,source_tasks,episodes,success_pct,effect_vs_never_pp,ci_low_pp,ci_high_pp,intervention_rate_pct,rescue_n,harm_n,clean_intervention_n,clean_harm_n,clean_harm_rate_pct,clean_harm_cp95_low_pct,clean_harm_cp95_high_pct
+never_refresh,75,300,47.66666666666667,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,4.799506405514226
+qwen8_sequential_anomaly,75,300,47.66666666666667,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,4.799506405514226
+qwen8_oof_rate_matched_anomaly,75,300,47.66666666666667,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,4.799506405514226
+qwen14_transferred_cir,75,300,47.0,-0.6666666666666667,-3.0,1.6666666666666667,14.000000000000002,5,7,0,0,0.0,0.0,4.799506405514226
+qwen8_fitted_cir,75,300,47.66666666666667,0.0,0.0,0.0,1.6666666666666667,0,0,1,0,0.0,0.0,4.799506405514226

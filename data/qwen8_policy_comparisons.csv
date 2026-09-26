@@ -1,0 +1,5 @@
+comparison,effect_pp,ci_low_pp,ci_high_pp,cluster_signflip_p,signflip_null_low_pp,signflip_null_high_pp,source_tasks,a_only_success_n,b_only_success_n
+qwen8_fitted_cir_minus_never_refresh,0.0,0.0,0.0,1.0,0.0,0.0,75,0,0
+qwen8_fitted_cir_minus_qwen8_sequential_anomaly,0.0,0.0,0.0,1.0,0.0,0.0,75,0,0
+qwen8_fitted_cir_minus_qwen8_oof_rate_matched_anomaly,0.0,0.0,0.0,1.0,0.0,0.0,75,0,0
+qwen8_fitted_cir_minus_qwen14_transferred_cir,0.6666666666666667,-1.6666666666666667,3.0,0.7810021899781002,-2.0,2.0,75,7,5

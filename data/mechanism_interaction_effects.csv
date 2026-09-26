@@ -1,0 +1,7 @@
+contrast,value,ci_lo,ci_hi
+Interaction_TE_stale_vs_clean,0.2203,0.1102,0.3305
+DelayPenalty_TE_stale,-0.1017,nan,nan
+Interaction_IE_stale_vs_clean,0.0508,-0.0339,0.1441
+DelayPenalty_IE_stale,-0.0678,nan,nan
+Interaction_AE_stale_vs_clean,0.1694,0.0593,0.2881
+DelayPenalty_AE_stale,-0.0339,nan,nan
